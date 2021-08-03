@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**ReasonablySelenium/ReasonablySelenium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Reasonably Selenium, one of the co-founders of [Cob:web-Aclevo](https://github.com/cobweb-aclevo/).
+ 
+- 🔭 I’m currently managing Cob:web-Aclevo, making contributions here and there.
+- 🧠 Current Programming Languages: Javascript, HTML, CSS, C#
+- 🌱 I’m currently learning Rust, C, and am interested in Java and Rust.
+- 📫 How to reach me: You can contact me [here](https://cobweb-aclevo.org/contact.html).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I use Arch Linux with the Sway Window Manager.
 
-Here are some ideas to get you started:
+# Tools & Languages:
+- Arch Linux
+- Sway Window Manager
+- Neovim
+- Oh My ZSH!
+- GitHub Pages (for my website — see below)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My Websites:
+Current: https://seleniumreal.github.io
+
+# GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ReasonablySelenium)
