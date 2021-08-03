@@ -20,4 +20,4 @@ I'm Reasonably Selenium, one of the co-founders of [Cob:web-Aclevo](https://gith
 Current: https://seleniumreal.github.io
 
 # GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ReasonablySelenium)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ReasonablySelenium&theme=tokyonight&showicons=true)
