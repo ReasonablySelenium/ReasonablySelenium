@@ -7,7 +7,7 @@ I'm Reasonably Selenium, one of the co-founders of [Cob:web-Aclevo](https://gith
 - 🌱 I’m currently learning Rust, C, and am interested in Java.
 - 📫 How to reach me: You can contact me [here](https://cobweb-aclevo.org/contact.html).
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I use Arch Linux with the Sway Window Manager.
+- ⚡ Fun fact: I use Arch Linux ~~with the Sway Window Manager~~ with KDE.
 
 # Tools & Languages:
 - Arch Linux
