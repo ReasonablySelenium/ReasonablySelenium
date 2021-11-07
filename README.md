@@ -11,8 +11,8 @@ I'm Reasonably Selenium, one of the co-founders of [Cob:web-Aclevo](https://gith
 
 # Tools & Languages:
 - Arch Linux
-- Sway Window Manager
-- Neovim
+- KDE Plasma
+- VSCodium (sometimes I use Neovim)
 - Oh My ZSH!
 - GitHub Pages (for my website — see below)
 
