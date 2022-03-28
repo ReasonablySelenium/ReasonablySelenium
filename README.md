@@ -19,4 +19,4 @@ I'm TheOceanBreeze, one of the co-founders of [Cob:web](https://github.com/TeamC
 Current: Coming Soon!
 
 # GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ReasonablySelenium&theme=tokyonight&showicons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheOceanBreeze&theme=tokyonight&showicons=true)
