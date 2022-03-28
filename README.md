@@ -1,23 +1,22 @@
 ### Hi there 👋
 
-I'm Reasonably Selenium, one of the co-founders of [Cob:web-Aclevo](https://github.com/cobweb-aclevo/).
+I'm TheOceanBreeze, one of the co-founders of [Cob:web](https://github.com/TeamCobweb/).
  
-- 🔭 I’m currently managing Cob:web-Aclevo, making contributions here and there.
+- 🔭 I’m currently managing Cob:web, making contributions here and there.
 - 🧠 Current Programming Languages: JavaScript, Python, HTML, CSS, C#
 - 🌱 I’m currently learning Rust, C, and am interested in Java.
 - 📫 How to reach me: You can contact me [here](https://cobweb-aclevo.org/contact.html).
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I use Arch Linux ~~with the Sway Window Manager~~ with KDE.
+- ⚡ Fun fact: I use Arch Linux ~~with the Sway Window Manager~~ with Gnome.
 
 # Tools & Languages:
 - Arch Linux
-- KDE Plasma
+- Gnome
 - VSCodium (sometimes I use Neovim)
 - Oh My ZSH!
-- GitHub Pages (for my website — see below)
 
 # My Websites:
-Current: https://seleniumreal.github.io
+Current: Coming Soon!
 
 # GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ReasonablySelenium&theme=tokyonight&showicons=true)
