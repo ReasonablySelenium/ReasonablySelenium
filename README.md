@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-I'm TheOceanBreeze, one of the co-founders of [Cob:web Development](https://github.com/cobwebdev/).
- 
-- 🔭 I’m currently managing Cob:web Development, making contributions here and there.
+I'm TheOceanBreeze!
+
 - 🧠 Current Programming Languages: JavaScript, Python, HTML, CSS, C#
 - 🌱 I’m currently learning Rust, C, and am interested in Java.
-- 📫 How to reach me: You can contact me [here](https://cobweb-aclevo.org/contact.html).
+- 📫 How to reach me: Contact me via Discord: https://discord.gg/jFZH7f8k6K
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I use Arch Linux with Gnome.
 
