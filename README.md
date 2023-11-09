@@ -6,11 +6,11 @@ I'm TheOceanBreeze!
 - 🌱 I’m currently learning Rust, C, and am interested in Java.
 - 📫 How to reach me: Contact me via Discord: https://discord.gg/jFZH7f8k6K
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I use Arch Linux with Gnome.
+- ⚡ Fun fact: I use Arch Linux with KDE.
 
 # Tools & Languages:
 - Arch Linux
-- Gnome
+- KDE Plasma
 - VSCodium - Neovim
 - Oh My Fish!
 
