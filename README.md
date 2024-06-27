@@ -9,9 +9,9 @@ I'm TheOceanBreeze!
 - ⚡ Fun fact: I use Arch Linux with KDE.
 
 # Tools & Languages:
-- Arch Linux
-- KDE Plasma
-- VSCodium - Neovim
+- Fedora Linux
+- Gnome
+- VSCodium
 - Oh My Fish!
 
 # My Websites:
